@@ -1,0 +1,17 @@
+-----------------------------------
+            Customer 
+-----------------------------------
+-name : string
+-age : Integer
+-balance: Double
+-----------------------------------
++Customer(name : String, age : Inteegr, balance : Double)
+
++getName() : String
++getAge() : Integer
++getBalance() : Double
+
++setName(name : String)
++setAge(age : Integer)
++charge(amount : Doubel)
++credit(amount : Double)
