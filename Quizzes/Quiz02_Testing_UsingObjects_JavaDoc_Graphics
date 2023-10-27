@@ -1,0 +1,29 @@
+1. Select all true statements about unit tests and testing for this course. 
+
+  
+  A. In general, write one test method for each production method in your code
+
+  
+  B. A common framework for testing Java code is JUnit
+
+
+  C. Tests should take actions that exercise production code.  But they should also verify the results of those actions using methods like assertEquals, assertTrue, etc.
+
+
+  D. The version of JUnit we'll use for this course is JUnit4
+
+  
+  E.  If a test fails, that could signal a bug in production code or a bug in test code
+
+
+  F. JUnit test methods start with the annotation @Testing before the method is defined
+
+
+  G.  Unit tests are meant to check overall functionality of an application
+
+
+  H.  It is common in the industry for coders to submit both production and test code for their work
+
+
+    Correct Answer: A,B,C,E,H     
+
