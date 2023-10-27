@@ -1,0 +1,180 @@
+1. Which statement best characterizes Java?
+
+  A. Java is a purely interpreted language.
+
+  B. Java is a hybrid language, having aspects of both compilation and interpretation.
+
+  C. Java is a purely compiled language.
+
+  D. Java is a scripting language.
+
+    Correct answer: B 
+
+2. elect all true statements regarding indentation in Java.
+
+  A. It is unnecessary for the language and shouldn't be used
+
+  B. While it isn't part of language syntax, it is useful to human readers and should be used
+
+  C. There are indentation requirements in our course Style Guide
+
+  D. It is a necessary part of language syntax, like it is Python
+    
+    Correct answer: B,C
+
+3. Which statement best describes the use of semicolons in Java?
+
+  A. They are optional if you have only a single statement of code
+
+  B. They are used to indicate the end of a code statement
+
+  C. They are used to indicate the end of a physical line of code
+    
+    Correct answer: B
+
+4. Select all true statements about console output in Java.
+
+  A. Both print and println require at least one parameter
+
+  B. String literals displayed by print and println can use escape characters for controlling spacing
+
+  C. print and println have the same result except that println  moves to the next line of output after displaying the requested data
+
+  D. Both print and println methods are prefaced by System.out.
+
+    Correct answer: B,C,D
+
+5. Select all true statements about identifiers in Java.
+
+  A. By language requirement, we use camelCase for them, not PascalCase
+
+  B. It is syntactically permitted to use Java keywords as identifiers
+
+  C. They may include letters, digits, underscores, and dollar signs
+
+  D. By convention, we use camelCase for all identifiers, not PascalCase
+
+   Correct answer: C
+
+6. Select all true statements about comments in Java.
+
+  A. Java offers both block (multi-line) and line-style comments
+
+  B. Line-style comments, if used, must be the only thing on the line
+
+  C. It is a best practice to write one comment per code statement you write
+
+  D. Knowledgeable coders don't rely on comments; they are for academic purposes only
+
+    Correct answer: A
+
+7. Select all keywords are you asked *not* to use during the quarter.
+
+  A. finally
+
+  B. break (except in conjunction with switch)
+
+  C. continue
+
+  D. volatile
+
+     Correct answer: B,C
+
+8. Which statement best describes typical "stubbed" methods that return values?
+
+  A. Expected signature, no return, no logic
+
+  B. Expected signature, hardcoded return, no logic
+
+  C. Different signature, no return, no logic
+
+     Correct answer: B
+
+9. Order these integral types by amount of memory required.
+
+  smallest (least memory)
+
+    byte
+
+    short
+
+    int
+
+    long
+
+  largest (most memory)
+
+10. Categorize these Java primitive data types.
+
+  Integral: short, byte, long, int
+
+  Floating point: double, float
+
+  Not a primitive data type: String
+
+  Other: char, boolean
+
+11. Order these Java operators based on when they are evaluated/executed.
+
+  First evaluated
+
+    !
+    
+    %
+    
+    -
+
+    !=
+    
+    =
+
+  Last evaluated
+
+12. Match the term to a code example that illustrates it. 
+
+  Narrowing: int e = 3; byte f = e;
+
+  Widening: int c = 4; long d = 4;
+  
+  Demotion: double a = 3.47; int b = a;
+
+  Promotion: int g = 4; float h = g;
+
+13. Select all true statements regarding for loops.
+
+  A. In the first clause inside the parentheses, we must declare the loop variable as well as assign it a value.
+
+  B. The second clause inside the parentheses is the loop-continuation condition
+
+  C. Nesting of for loops is not syntactically allowed in Java.
+
+  D. All three clauses must contain code; none may be omitted
+
+  E. Inside the parentheses there are three clauses we can use.
+
+  F. We generally use them for definite looping scenarios
+
+    Correct answer: B,E,F
+
+14. Select all statements that regarding method overloads.
+
+  A. They must have the same method name.
+
+  B. They are not allowed in Java.
+
+  C. If we have defined foo(int a), we may not have foo(double a) because it has the same number of parameters.
+
+  D. If we have defined foo(int a, int b), it is okay to define an overload foo(int c, int d), as long as the parameter names are changed.
+
+    Correct answer: A
+
+
+
+
+
+
+
+
+
+
+
