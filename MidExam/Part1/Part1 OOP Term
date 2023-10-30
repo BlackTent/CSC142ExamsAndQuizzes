@@ -1,0 +1,39 @@
+Class:         A class is a blueprint or template for creating objects. 
+               It defines the structure and behavior that objects of the class will have. 
+               In Java, classes are used to create objects and organize code.
+
+Object:        An object is an instance of a class. 
+               It represents a real-world entity or concept and contains data (attributes) 
+               and methods (functions) that can be used to interact with that data.
+
+Inheritance:   Inheritance is a mechanism in Java where a new class (subclass or derived class) can inherit properties 
+               and behaviors from an existing class (superclass or base class). 
+               This promotes code reuse and allows for the creation of specialized classes based on more general ones.
+
+Polymorphism:  Polymorphism is the ability of objects of different classes to respond to the same method 
+               or message in a way that is appropriate for their class. 
+               This allows for more generic and flexible code.
+
+Encapsulation: Encapsulation is the practice of hiding the internal details of an object 
+               and providing a well-defined interface for interacting with it. 
+               In Java, this is achieved through access modifiers (public, private, protected) 
+               and getter and setter methods.
+Abstraction:   Abstraction involves simplifying complex systems by breaking them down into smaller, 
+               more manageable parts. In Java, classes and interfaces are used to create abstractions 
+               that define the structure and behavior of objects.
+
+Interface:     An interface in Java is a contract that specifies a set of methods that a class must implement. 
+               It allows for the definition of common behavior that can be shared by multiple classes.
+
+Constructor:   Constructors are special methods in a class that are used to initialize objects 
+               when they are created. They have the same name as the class and are called 
+               when an object is instantiated.
+
+Method:        A method is a function defined within a class. 
+               Methods define the behavior or operations that objects of the class can perform.
+
+Static Member: Static members (variables and methods) belong to the class itself, 
+               rather than to individual objects. They are shared among all instances of the class.
+
+Instance Variable: An instance variable (also known as a member variable or field) 
+                   is a data member of a class that holds the state or attributes of an object.
