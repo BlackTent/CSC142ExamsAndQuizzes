@@ -1,0 +1,40 @@
+Class:          A class is a blueprint for creating objects in Java. It defines the structure and behavior of objects, 
+                including attributes (data members) and methods (functions).
+
+Interface:      An interface in Java defines a contract of methods that a class must implement. 
+                It allows multiple classes to share common behavior and achieve a level of abstraction.
+
+Inheritance:    Inheritance is an object-oriented concept in Java where a new class can inherit properties and behaviors from an existing class, 
+                promoting code reuse and hierarchical relationships.
+
+Data Type:      A data type in Java defines the kind of data that a variable can hold. It specifies the size and format of the data, such as integers, 
+                floating-point numbers, characters, and more.
+
+Keyword:        Keywords in Java are reserved words with predefined meanings. They cannot be used as identifiers (e.g., variable names) 
+                and play crucial roles in the language's syntax and structure.
+
+Static Method:  A static method in Java is a method that belongs to a class rather than to an instance of the class. 
+                It can be called using the class name and does not require an object to be instantiated.
+
+Return Type:    The return type of a method in Java indicates the type of value that the method will return when it is called. 
+                It is declared before the method name in the method signature.
+
+Enum:           An enum in Java is a special data type used to define a set of constant values. 
+                Enums are often used to represent a fixed set of related constants or options.
+
+Void:           "Void" is a keyword and a return type in Java that indicates a method does not return any value.
+ 
+Public:         "Public" is an access modifier that makes a class, method, or variable accessible from any other class.
+
+Private:        "Private" is an access modifier that restricts the accessibility of a class, method, or variable to only within the same class.
+
+Getter:         A "getter" is a method used to access the value of an object's attribute (a field or variable). 
+                It often follows a naming convention like getVariableName().
+
+This:           "This" is a keyword that refers to the current object within a class 
+                and is used to differentiate between instance variables and method parameters or local variables.
+
+Throw:          "Throw" is a keyword used to explicitly raise an exception in Java by throwing an instance of an exception class.
+
+Exception Handling: Exception handling in Java is a mechanism for dealing with errors 
+                    and exceptional situations in a program. It involves "try," "catch," "finally," and "throw" constructs to manage exceptions.
