@@ -1,0 +1,15 @@
+byte: A 1-byte (8-bit) data type that can store values from -128 to 127.
+
+short: A 2-byte (16-bit) data type that can store values from -32,768 to 32,767.
+
+int: A 4-byte (32-bit) data type that can store values from -2^31 to 2^31 - 1.
+
+long: An 8-byte (64-bit) data type that can store values from -2^63 to 2^63 - 1.
+
+float: A 4-byte data type used to store floating-point numbers, providing approximate values with single-precision.
+
+double: An 8-byte data type used to store floating-point numbers, providing higher precision with double-precision.
+
+char: A 2-byte (16-bit) data type used to store a single character or a Unicode character.
+
+boolean: A data type that can have one of two values: true or false.
