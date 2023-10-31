@@ -1,0 +1,20 @@
+[Same family]    - integral to integral, float to float
+
+widning        - smaller type to larger type, short --> int
+                 fine with Java        
+                ex) int e = 3; byte f = e;
+
+narrowing      - larger type to smaller type, double --> float
+                not fine with Java  
+                ex) int c = 4; long d = 4;
+
+
+[Different families] 
+
+promotion        -int --> float        double a = 3.47; int b = a;            
+                 -Fine with Java  
+                 -float a = 3L;
+
+demotion         -float --> long       int g = 4; float h = g;
+                 -not fine with Java
+                 -Long b = (long)3.4;
