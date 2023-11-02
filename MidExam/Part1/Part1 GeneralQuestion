@@ -1,0 +1,2 @@
+Some languages are clearly compiled (e.g., C), and some clearly interpreted (e.g., Python).  
+Where does Java fit into this model?  How does Java use this model to provide machine independence?
